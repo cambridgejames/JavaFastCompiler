@@ -1,0 +1,6 @@
+/Debug
+/Release
+*.db
+*.exe
+*.dll
+*.aps
