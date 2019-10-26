@@ -21,6 +21,8 @@
 
 **运行环境：** 本程序的原理为调用JDK和JRE，故需要用户自行安装Java集成开发环境（JDK）10及以上版本。同时，虽然本程序自带了部分动态链接库，但在部分计算机中仍可能需要手动安装Microsoft Visual C++ 2015运行库。
 
+**软件下载：** [https://github.com/cambridgejames/Java_Fast_Compiler](https://github.com/cambridgejames/Java_Fast_Compiler)
+
 ---
 
 ### 操作手册
