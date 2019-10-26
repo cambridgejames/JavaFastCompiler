@@ -1,5 +1,10 @@
 ![Java快速编译工具](http://upload-images.jianshu.io/upload_images/13775732-a537d606fea4ddb0?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # Java快速编译工具使用手册
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cambridgejames/JavaFastCompiler?color=red)
+![GitHub repo size](https://img.shields.io/github/repo-size/cambridgejames/JavaFastCompiler?color=yellow)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/cambridgejames/JavaFastCompiler)
+![GitHub](https://img.shields.io/github/license/cambridgejames/JavaFastCompiler)
+![GitHub followers](https://img.shields.io/github/followers/cambridgejames?label=Follow&style=social)
 
 ---
 **适用范围：** 快速编译较为简单的Java源程序
