@@ -11,7 +11,6 @@
 
 **开发人员：** 强力发明狂
 
-**下载地址：** https://github.com/cambridgejames/Java_Fast_Compiler.git
 ---
 
 ### 程序说明
