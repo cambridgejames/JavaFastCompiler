@@ -8,8 +8,9 @@
 
 ---
 **适用范围：** 快速编译较为简单的Java源程序
+
 **开发人员：** 强力发明狂
-**下载地址：** https://github.com/cambridgejames/Java_Fast_Compiler.git
+
 ---
 
 ### 程序说明
@@ -119,7 +120,9 @@
 若程序在使用中出现任何问题，请联系程序开发人员：
 
 **ID：** 强力发明狂
+
 **邮箱：** cambridge_james@foxmail.com
+
 **微博：** @强力发明狂
 
 ---
